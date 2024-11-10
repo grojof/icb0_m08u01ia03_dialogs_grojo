@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/icb0_m08u01ia03_dialogs_grojo.iml" filepath="$PROJECT_DIR$/icb0_m08u01ia03_dialogs_grojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/icb0_m08u01ia03_dialogs_grojo_android.iml" filepath="$PROJECT_DIR$/android/icb0_m08u01ia03_dialogs_grojo_android.iml" />
+    </modules>
+  </component>
+</project>
